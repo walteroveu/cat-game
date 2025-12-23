@@ -1,0 +1,18 @@
+{
+  "name": "猫咪指认物品",
+  "short_name": "猫咪游戏",
+  "description": "一个有趣的猫咪指认物品小游戏",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#F7FFF7",
+  "theme_color": "#FF6B6B",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://p3-flow-imagex-download-sign.byteimg.com/tos-cn-i-a9rns2rl98/6827d6351cec4356968bc298698295a7.png~tplv-a9rns2rl98-24:720:720.png?rcl=2025122316233519D5AB42B335312F9DC3&rk3s=8e244e95&rrcfp=8a172a1a&x-expires=1767083016&x-signature=TuipAbmK07U2Q3Z9KJpBczhnTNY%3D",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
